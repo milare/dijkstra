@@ -1,0 +1,8 @@
+. t t t t t t t t t t t t
+. . . . . . . . . . . . t
+t t t t t t . t t t t . t
+t . . . . . . . . . . . t
+t t g t t t t t t t t t t
+t . . . . . . . . . . . t
+t t t t t t t t t t t t .
+
